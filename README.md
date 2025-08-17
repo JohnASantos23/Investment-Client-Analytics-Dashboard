@@ -3,6 +3,8 @@
 ### 📊 Overview
 This Power BI project analyzes client data for a fictional investment management firm with $1B AUM and 10,000 clients. The dashboard covers:
 
+---
+
 ## 🖥️ Dashboard Pages
 
 ### 1️⃣ Client Overview
