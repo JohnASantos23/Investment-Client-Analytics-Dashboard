@@ -12,11 +12,15 @@ This Power BI project analyzes client data for a fictional investment management
 - Average balance by state
 - Interactive map of client distribution
 
+---
+
 ### 2️⃣ Marketing & Outreach
 
 - Total campaigns & communication volume
 - Channel-level response rate
 - Campaign performance (by name)
+
+---
 
 ### 3️⃣ Sales & Relationship Management
 
@@ -25,12 +29,16 @@ This Power BI project analyzes client data for a fictional investment management
 - High-value client identification
 - Average resolution time (DAX logic)
 
+---
+
 ### 🛠️ Tools Used
 - Power BI
 - DAX
 - Excel / CSV
 - Power Query
 - SQL
+
+---
 
 ### 📁 Files Included
 - `Investment Client Analytics.pbix` – Power BI project file
@@ -41,6 +49,8 @@ This Power BI project analyzes client data for a fictional investment management
 - `transactions.csv`– Sample data
 - `dashboard_screenshots/` – Images of dashboards
 
+---
+
 ### 📌 Key KPIs
 - 🔢 **Total Clients**
 - 🧮 **Average Account Balance**
@@ -49,6 +59,8 @@ This Power BI project analyzes client data for a fictional investment management
 - ⏱️ **Avg. Sales Request Resolution Time**
 - 📍 **Client Distribution by State**
 - 🎯 **High-Value Clients ($250K+ AUM)**
+
+---
 
 ### 🧠 Business Value
 This dashboard simulates how an analyst would track client growth, engagement, and service activity to optimize relationship management and identify improvement areas in marketing outreach and sales performance.
